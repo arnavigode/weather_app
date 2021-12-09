@@ -1,5 +1,5 @@
 import { useState } from "react";
-import axios from "axios";
+// import axios from "axios";
 import "./App.css";
 const api = {
   key: "b83f4c758619018338f1a5a765cc5bff",
